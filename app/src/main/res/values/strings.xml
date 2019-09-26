@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BeerFinder</string>
+    <string name="find_beer">Find Beer!</string>
+    <string name="brands">No beers selected</string>
+    <string-array name="typesOfBeer">
+        <item>"ipa"</item>
+        <item>"pale-ale"</item>
+        <item>"sour"</item>
+        <item>"pilsner"</item>
+        <item>"amber"</item>
+        <item>"red"</item>
+    </string-array>
+</resources>
